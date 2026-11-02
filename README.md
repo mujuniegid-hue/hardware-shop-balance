@@ -18,4 +18,4 @@ Type a customer's name and see how much they owe.
 
 ## Price
 
-I would charge a hardware shop owner UGX ____ for this tool.
+I would charge a hardware shop owner UGX 1,000,000 for this tool.
